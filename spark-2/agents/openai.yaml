@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spark 2.0"
+  short_description: "Build and debug Spark 2.0 Gaussian splat apps."
+  default_prompt: "Use $spark-2 to build or debug a Spark 2.0 Gaussian splatting example."
