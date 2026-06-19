@@ -1,0 +1,7 @@
+interface:
+  display_name: "文澜智写架构助手"
+  short_description: "起草企业公文，并完善AI写作工作台、RAG、Agent、安全治理与全栈架构"
+  default_prompt: "Use $administrative-documents to improve a 文澜智写-like AI writing workbench with product scope, technical route, RAG/Agent architecture, security governance, implementation roadmap, risks, and acceptance criteria."
+
+policy:
+  allow_implicit_invocation: true
